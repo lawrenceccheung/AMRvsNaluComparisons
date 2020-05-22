@@ -29,4 +29,20 @@ AMReX (20.05-42-g0c4606cf624a) initialized
 Initializing AMR-Wind ...
 ```
 
-Get the line_plot.txt file at:
+Get the line_plot.txt file at: 
+
+## Comparison plots
+**AMR-wind Hub-height velocity slice**  
+<img src="vizplots/HHslice.png" width="600">  
+**Nalu-wind Hub-height velocity slice**  
+<img src="../../NaluRun/vizplots/naluwind_danaero1_Smag_20000_HHslice.png" width="600">  
+
+**AMR-wind streamwise velocity slice**  
+<img src="vizplots/StreamSlice_UMag.png" width="600">  
+**Nalu-wind streamwise velocity slice**  
+<img src="../../NaluRun/vizplots/naluwind_danaero1_Smag_20000_StreamSlice.png" width="400">
+
+**AMR-wind streamwise temperature slice**  
+<img src="vizplots/StreamSlice_T.png" width="600">  
+**Nalu-wind streamwise temperature slice**  
+<img src="../../NaluRun/vizplots/naluwind_danaero1_Smag_20000_StreamSliceT.png" width="500">
