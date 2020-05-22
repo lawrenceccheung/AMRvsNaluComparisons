@@ -1,4 +1,4 @@
-# AMR-wind vs Nalu-wind comparison 5
+# AMR-wind vs Nalu-wind comparison 6
 
 Top of log file:
 ```
