@@ -1,5 +1,10 @@
 # AMR-wind vs Nalu-wind comparison 6
 
+## Summary
+Run using initial temperature perturbations.
+
+## Details
+
 Top of log file:
 ```
 nodes = 16

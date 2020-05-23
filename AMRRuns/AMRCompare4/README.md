@@ -1,5 +1,10 @@
 # AMR-wind vs Nalu-wind comparison 4
 
+## Summary
+Run using the correct temperature BC's (i.e., not having T=0 K at the lower boundary).
+
+## Details
+
 Top of log file:
 ```
 nodes = 16
