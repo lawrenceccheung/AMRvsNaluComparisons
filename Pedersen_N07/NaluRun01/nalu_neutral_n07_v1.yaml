@@ -234,7 +234,7 @@ realms:
       velocity: [0.0,0.0,0.0]
       abl_wall_function:
         surface_heating_table:
-          #   Time     Tflux    T   weight (0=T specified, 1=Tflux specified)
+          #   Time     Tflux    T   weight (1=Tflux specified, 2=T specified)
           - [     0.0, 0.005, 290.0, 1.0]
           - [999999.9, 0.005, 290.0, 1.0]
         reference_temperature: 290.0
